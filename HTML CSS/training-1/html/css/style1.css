@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap');
+* {
+    box-sizing: border-box;
+}
+body { 
+    margin: 0; 
+    padding: 0; 
+    font-family: 'Titillium web','Titillium web Bold'; 
+    color: #fff;;
+    line-height: 1.5;
+}
+.container {
+    width: 1140px;
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+}
+.clearfix:before, .clearfix:after {
+    width: 100%;
+    display: table;
+    content: '';
+}
+.h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.h2{
+    font-size: 32px;
+    font-weight: 700;
+}.h3{
+    font-size: 28px;
+    font-weight: 600;
+}.h4{
+    font-size: 24px;
+    font-weight: 400;
+}.h5{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Titillium web';
+    margin: 0;
+}
+.h6{
+    font-size: 16px;
+    font-weight: 300;
+    font-family: 'Titillium web';
+    margin: 0;
+}
+h1, h2, h3, h4{
+    font-family: 'Titillium web';
+    font-weight: 700;
+    margin: 0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Hii There */
+
+.section-1{
+    background-color: #864f9c;
+}
+.top-strip{
+    background-color: #864f9c;
+    padding-top: 56px;
+}
+.header li{
+    list-style: none;
+    padding-left: 38px;
+    padding-top: 14px;
+}
+.header{
+    padding-left: 48px;
+}
+.top-header{
+    padding-bottom: 140px;
+    padding-left: 88px;
+}
+.nav-link-hover{
+    text-decoration: none;
+    background-color: #633a79;
+}
+.strip{
+    padding-bottom: 65px;
+}
+.button {
+    padding-top: 54px;
+}
+
+.btn-primary {
+    color: #fff;
+    border-color: #C86A40;
+    padding: 20px 80px;
+    border-radius: 5px;
+    box-shadow: 0 6px #C86A40;
+    text-transform: uppercase;
+    font-size: 18px;
+    width: 292px;
+    height: 67px;
+    border-radius: 4px;
+    background-color: #EB7D4B;
+}
+.btn{
+    background-color: #eb7d4b;
+    padding: 22px 68px;
+    border-bottom: 4px;
+    border-color : #c86a40;
+}
+.btn1{
+    padding-bottom: 144px;
+}
+
+/* Services We Provide */
+
+.section-2{
+    background-color: #16c2a3;
+}
+.title2, .title4, .title5{
+    padding-top: 118px;
+    font-weight: bolder;
+    letter-spacing: 4px;
+}
+.line2, .line4, .line5{
+    padding-bottom: 18px;
+}
+.con2, .con4{
+    padding-bottom: 80px;
+}
+.cont2{
+    padding-bottom: 18px;
+}
+.subtitle2{
+    padding-top: 60px;
+}
+.subtitle2 p{
+    padding-bottom: 116px;
+}
+
+/*  Meet Our Team */
+
+.our-teem {
+    padding: 120px 0 127px 0;
+    background-color: #E7F1F8;
+    color: #3c4761;
+}
+
+.our-rocket {
+    padding-top: 62px;
+}
+
+.our-rocket h3 {
+    padding-top: 41px;
+    color: #3c4761;
+}
+
+.our-rocket h4 {
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 18px;
+    color: #30BAE7;
+    font-weight: 400;
+    font-family: "Titillium Web";
+    text-align: center;
+}
+
+.our-rocket p {
+    width: 204px;
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    color: #3C4761;
+    font-weight: 300;
+    font-family: "Titillium Web";
+    text-align: center;
+}
+
+.our-rocket ul li {
+    float: left;
+    list-style-type: none;
+    padding: 0 10px 0 0;
+}
+
+.our-teem-icons {
+    padding-left: inherit;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+/* Skills */
+
+.section-4{
+    background-color: #fff;
+}
+.title4{
+    color: #3c4761;
+}
+.con4{
+    color: #3c4761;
+}
+.prg14{
+    padding-bottom: 122px;
+}
+
+/* Get In Touch */
+
+.section-5{
+    background-color: #3c5399;
+}
+.form-control{
+    background-color: #273a71;
+    border: none;
+}
+.form-floating .msg{
+    height: 170px;
+    width: 884px;
+}
+.con5{
+    padding-bottom: 50px;
+}
+.section-5 .container .details5{
+    padding-left: 118px;
+    padding-right: 124px;
+    padding-bottom: 56px;
+}
+.section-5 .container .row .col-md-12 .btn1 .btn5{ 
+    background-color: #2fb9e7;
+    padding-left: 68px;
+    padding-right: 68px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    border-radius: 2px;
+}
+.form-floating .name5{
+    padding-right: 15px;
+    padding-left: 0px;
+}
+
+/* Footer */
+
+.bottom-footer{
+    background-color: #334b8e;
+}
+.navigation-footer{
+    float: left;
+    padding-top: 45px;
+    padding-bottom: 46px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.bottom-footer a {
+    font-size:24px;
+    color:#fff;
+    font-weight: 400;  
+    text-decoration: none;
+}
+.bottom-footer ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.bottom-footer ul li {
+    display: inline-block;
+    padding-left: 64px;
+}
+.bottom-footer .blue-tweet{
+    color: #30bae7;
+}

@@ -1,0 +1,69 @@
+Name: Harshit Thakkar
+
+Which field of IT are you interested in?
+Web Designer
+
+Why did you choose this field?
+I have studied HTML CSS Javascript  . I have practiced HTML CSS after my 12 th standard and i like  to design new web pages so i am interested in this feild.
+ 
+Where do you want to yourself in 5 years?
+i want to be see myself as a web designer team leader
+Person 3:
+Name :- Pinak_Changela
+Which field of IT (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):- BA
+Why did you choose this field (at least 100 chars)? 
+Answer : I choose Business Analyst as my domain because after getting to know more details about this domain, I felt like this is something I can work with. One of the main reason about this choice is my Communication, as it is one of the main requirement in BA. Managing skills and documentation skills are also the reason behind choosing this domain.
+Where do you want to yourself in 5 years?
+Answer : After 5 years, I will be looking to get more and more knowledge in this BA domain. After that i'll be looking for a bit stability in life. Also I will be looking to help my father in the best possible way I can.
+Person4:
+
+Name :- Raj Vyas
+
+Which field of IT are you interested in (front-end, backend, AI-AR, BA, QA, Web Designer, etc... ):- 
+Answer : Devops
+
+Why did you choose this field (at least 100 chars)?
+Answer : 
+I like to work on Cloud Part. For that, I have worked on few basics of AWS(Amazon Web Services).  
+
+Where do you want to yourself in 5 years?
+Answer:
+Manager
+
+Person5:
+Name :- Tilak Ved
+In the field of IT I am interested in front-end development.
+I have choosed this field because I want to learn all about the view working at client side
+
+I want to be my best version in feild of IT in 5 years.
+
+Person6:
+
+Name :- Vishal_Mehta
+
+Which field of IT are you interested :- I am interested in AI-AR.
+
+Why did you choose this field (at least 100 chars)?
+
+Answer :
+
+I choosed the AI-AR field because i am interested in the Artificial intelegence field and i have interest into this field like how robot works how we can gvie them command and how we can make human life easy by using AI.
+
+
+Where do you want to yourself in 5 years?
+Answer:
+
+i want myself to be working in an AI-ML Devlopment team as leader of a group.
+
+Name :-  Chirag Kher
+
+Which field of IT are you interested in (front-end,Web Designer):-
+
+Why did you choose this field (at least 100 chars)?
+
+Answer :Beacuse i am interested in designing and second reason is to work as both front-endnd back-end.
+
+Where do you want to yourself in 5 years?
+Answer:i want my self in 5 years as a full-tack developer.
+
+Add, commit and push code from the local machine. Work together.

@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css");
+
+@media only screen and (min-width: 768px) {
+
+    /* For desktop: */
+    .col-1 {
+        width: 8.33%;
+    }
+
+    .col-2 {
+        width: 16.66%;
+    }
+
+    .col-3 {
+        width: 25%;
+    }
+
+    .col-4 {
+        width: 33.33%;
+    }
+
+    .col-5 {
+        width: 41.66%;
+    }
+
+    .col-6 {
+        width: 50%;
+    }
+
+    .col-7 {
+        width: 58.33%;
+    }
+
+    .col-8 {
+        width: 66.66%;
+    }
+
+    .col-9 {
+        width: 75%;
+    }
+
+    .col-10 {
+        width: 83.33%;
+    }
+
+    .col-11 {
+        width: 91.66%;
+    }
+
+    .col-12 {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+}
+
+/* body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Proxima Nova';
+    color: #73879c;
+    font-size: 16px;
+    line-height: 1.5;
+} */
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.clearfix:before,
+.clearfix:after {
+    width: 100%;
+    display: table;
+    content: '';
+}
+
+.container {
+    max-width: 1920px;
+    padding-right: 20px;
+    padding-left: 20px;
+    width: 100%;
+    height: auto;
+    align-content: center;
+}
+
+.logo {
+    top: 9px;
+    left: 70px;
+    width: 138px;
+    height: 62px;
+    opacity: 1;
+}
+
+.profile {
+    width: 42px;
+    height: 42px;
+    opacity: 1;
+    float: right;
+}
+
+.custom {
+    opacity: 0.1;
+} 
+
+a {
+    text-decoration: none;
+}

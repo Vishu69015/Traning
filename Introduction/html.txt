@@ -1,0 +1,588 @@
+HTML
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>REEN - Training 1</title>
+      <link rel="shortcut icon" href="./assets/images/icon-heart.png" type="image/png">
+      <link rel="stylesheet" href="./css/style.css">
+   </head>
+   <body>
+      <!-- Website Header -->
+      <header>
+         <div class="top-strip">
+            <!--Top Strip-->
+            <div class="container">
+               <ul>
+                  <li><a href="mailto:info@reen.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> info@reen.com</a></li>
+                  <li><a href="tel:+001234567890"><i class="fa fa-mobile" aria-hidden="true"></i> +00 (123) 456 78 90</a></li>
+               </ul>
+            </div>
+         </div>
+         <div class="site-navigation clearfix">
+            <div class="container">
+               <div class="logo">
+                  <a href="#">
+                  <img src="./assets/images/logo.png" alt="REEN">
+                  </a>
+               </div>
+               <div class="navigation">
+                  <ul>
+                     <li><a href="#">Home</a></li>
+                     <li><a href="#">Portfolio</a></li>
+                     <li><a href="#">Blog</a></li>
+                     <li><a href="#">Pages</a></li>
+                     <li><a href="#">Features</a></li>
+                     <li><a href="#">Mega Menu</a></li>
+                     <li><a href="#">Contact</a></li>
+                  </ul>
+               </div>
+               <div class="social-media">
+                  <ul>
+                     <li><a href="#" target="_blank"><img src="./assets/images/icon-facebook.png" alt="Facebook"></a></li>
+                     <li><a href="#" target="_blank"><img src="./assets/images/icon-google.png" alt="Google"></a></li>
+                     <li><a href="#" target="_blank"><img src="./assets/images/icon-twitter.png" alt="Twitter"></a></li>
+                     <li><a href="#" target="_blank"><img src="./assets/images/icon-pinterest.png" alt="Pinterest"></a></li>
+                     <li><a href="#" target="_blank"><img src="./assets/images/icon-behance.png" alt="Behance"></a></li>
+                     <li><a href="#" target="_blank"><img src="./assets/images/icon-dribbble.png" alt="Dribble"></a></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </header>
+      
+      <!-- Banner -->
+      
+      <section class="banner-section ">
+         <div class="container">
+            <h1>Made for Designers</h1>
+            <p>Create your online portfolio in minutes with the professionally and lovingly designed REEN website template. Customize your site with versatile and easy to use features.</p>
+            <div class="button">
+               <a href="#">Get started now</a>
+            </div>
+         </div>
+      </section>
+
+      <!-- Beautyful. Clean. Responsive -->
+
+      <section class="beautiful">
+         <div class="container">
+         <h2>Beautiful. Clean. Responsive.</h2>
+         <p>REEN is a high-quality solution for those who want a beautiful website in no time.<br>It's fully responsive and will adapt itself to any mobile device. iPad, iPhone, Android,<br>it doesn't matter. Your content will always looks its absolute best.</p>
+         <div class="inner-row">
+            <div class="inner-row1 ">
+               <div class="icon">
+                  <img src="./assets/images/icon-heart.png"/ alt="Heart">
+               </div>
+               <div class="col-inner">
+                  <h3>Passion</h3>
+                  <p class="text-small">Magnis modipsae que lib voloratati andigen daepeditem quiate re porem aut labor. Laceaque quiae sitiorem rest non restibusaes maio es dem tumquam core posae volor remped modis volor..</p>
+               </div>
+            </div>
+            <div class="inner-row1 ">
+               <div class="icon">
+                  <img src="./assets/images/icon-bulb.png"/ alt="Bulb">
+               </div>
+               <div class="col-inner">
+                  <h3>Creativity</h3>
+                  <p class="text-small">Magnis modipsae que lib voloratati andigen daepeditem quiate re porem aut labor. Laceaque quiae sitiorem rest non restibusaes maio es dem tumquam core posae volor remped modis volor.</p>
+               </div>
+            </div>
+            <div class="inner-row1 ">
+               <div class="icon">
+                  <img src="./assets/images/icon-star.png"/ alt="Star">
+               </div>
+               <div class="col-inner">
+                  <h3>Quality</h3>
+                  <p class="text-small">Magnis modipsae que lib voloratati andigen daepeditem quiate re porem aut labor. Laceaque quiae sitiorem rest non restibusaes maio es dem tumquam core posae volor remped modis volor.</p>
+               </div>
+            </div>
+         </div>
+      </section>
+
+      <!-- Latest Work Section -->
+
+<section class="work-section ">
+    <div class="container">
+         <h2>Check out our latest works.</h2>
+         <p>Magnis modipsae que voloratati andigen daepeditem quiate re porem aut labor.</p>
+         <div class="images2-row clearfix">
+            <div class="images2">
+                  <img src="./assets/images/design.png" alt="Design">
+                <div class="text">
+                  <h4>Grand Motel gets an identity brushup</h4>
+                     <h6>Identity.</h6>
+            </div>
+        </div>
+            <div class="images2">
+                  <img src="./assets/images/design.png" alt="Design">
+                    <div class="text">
+                    <h4>Fresh branding for a creative startup</h4>
+                    <h6> Identity.</h6>        
+                </div>
+            </div>
+         </div>
+
+        <div class="work2 clearfix">
+               <div class="img4">
+                  <img src="./assets/images/design.png" alt="Design">
+               </div>
+
+               <div class="img4">
+                  <img src="./assets/images/design.png" alt="Design">
+               </div>
+            
+               <div class="img4">
+                  <img src="./assets/images/design.png" alt="Design">
+               </div>
+
+               <div class="img4">
+                  <img src="./assets/images/design.png" alt="Design">
+               </div>
+        </div>
+    </div>
+</section>
+      
+
+<!-- Work With US -->
+
+<section class="beautiful">
+    <div class="container">
+        <h2>Want to work with us?</h2>
+        <p>Magnis modipsae que voloratati andigen daepeditem quiate re porem aut labor.<br>Laceaque quiae sitiorem rest non restibusaes maio es dem tumquam.</p>
+        <div class="button">
+            <a href="#">Get started now</a>
+        </div>
+    </div>
+</section>
+
+      <!-- Website Footer -->
+
+      <footer>
+        <div class="container clearfix">
+            
+            <div class="foot1">
+                <h6>who we are</h6>
+                <img src="./assets/images/logo2.png" alt="REEN">
+                <p>Magnis modipsae voloratati andigen<br>daepeditem quiate re porem que aut labor<br>Laceaque eictemperum quiae sitiorem rest<br>non restibusaes maio es dem tumquam.</p>
+                <p class="spe">More about use <img src="./assets/images/icon-right.png" width="15px" height="15px" alt="Arrow"></p>
+            </div>
+
+            <div class="foot2">
+                <h6>latest work</h6>
+                <img src="./assets/images/design.png" alt="Design">
+                <img src="./assets/images/design.png" alt="Design">
+                <img src="./assets/images/design.png" alt="Design">
+                <img src="./assets/images/design.png" alt="Design">
+            </div>
+
+            <div class="foot3">
+                <h6>get in touch</h6>
+                <p>Doloreiur quia commolu ptatemp dolupta<br>oreprerum tibusam eumenis et consent<br>accullignis dentibea autem inisita.</p>
+            <ul>
+                <li><a href="#" target="_self"><img src="./assets/images/icon-location.png" alt="GPS">  84 Street, City, State 24813</a></li>
+                <li><a href="tel:+00 (123) 456 78 90"><img src="./assets/images/icon-mobile.png" alt="GPS">  +00 (123) 456 78 90</a></li>
+                <li><a href="mailto:info@reen.com"><img src="./assets/images/icon-mail-1.png" alt="GPS">  info@reen.com</a></li>
+            </ul>
+            </div>
+
+            <div class="foot4">
+                <h6>free updates</h6>
+                <p>Conecus iure posae volor remped modis </p>
+                <p>aut lor volor accabora incim resto explabo.</p>
+
+                <input type="text" placeholder ="Enter your email adrees"><input type="submit" value="Subscribe">
+                
+        </div>
+    </footer>
+
+
+     <!-- Bot Strip -->
+
+<section class="bot-strip">
+    <div class="container">
+        <div class="bot-strip clearfix">
+            <ul>
+                <li><a herf="#">© 2014 REEN. All rights reserved</li></a>
+            <div class="strip-menu clearfix">
+                   <li><a href="#">Home</a></li>
+                   <li><a href="#">Portfolio</a></li>
+                   <li><a href="#">Blog</a></li>
+                   <li><a href="#">Pages</a></li>
+                   <li><a href="#">Features</a></li>
+                   <li><a href="#">Mega Menu</a></li>
+                   <li><a href="#">Contact</a></li>
+           </div>
+        </ul>
+    </section>
+      
+   </body>
+</html>
+
+
+CSS
+
+/* Fonts & Icons */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
+/* Global Declarations */
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#73879c;
+    font-size:16px;
+    line-height: 1.5;
+}
+.container {
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+}
+.clearfix:before, .clearfix:after {
+    width: 100%;
+    display: table;
+    content: '';
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color:#506a85;
+    margin: 0;
+}
+h1 {
+    font-size:78px;
+    line-height: 88px;
+    font-weight: 900;
+}
+h2 {
+    font-size:44px;
+    line-height: 54px;
+}
+h3 {
+    font-size:26px;
+    line-height: 34px;
+}
+h4 {
+    font-size:20px;
+    line-height: 26px;
+}
+h5 {
+    font-size:18px;
+    line-height: 24px;
+}
+h6 {
+    font-size:16px;
+    line-height: 22px;
+}
+a {
+    font-size: 15px;
+    font-weight: 700;
+    color:#00bb9b;
+    text-decoration: none;
+}
+.button a {
+    font-size: 18px;
+    line-height: 33px;
+    padding: 16px 40px 14px;
+    background-color: #00bb9b;
+    color:#fff;
+    display: inline-block;
+    border-radius:3px;
+    border-bottom:2px solid #009f84;
+}
+/* Header */
+header ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+ }
+ .top-strip {
+     background-color: #f5f7f9;
+  }
+  .top-strip li {
+      display: inline-block;
+      padding:11px 24px 11px 0;
+  }
+  .top-strip a {
+      font-size:12px;
+      font-weight: 400;
+      color: #506a85;
+      display: block;
+  }
+  .site-navigation {
+    padding: 23px 0;
+  }
+  .logo {
+      width: 16.66%;
+      float: left;
+      padding: 9px 0;
+  }
+  .navigation {
+    width: 66.64%;
+    float: left;
+  }
+  .navigation ul {
+      text-align: center;
+  }
+  .navigation ul li {
+      display: inline-block;
+    }
+    .navigation ul li a{
+        color:#506a85;
+        text-transform: uppercase;
+        padding: 22px 22px;
+        display: block;
+    }
+  .social-media {
+      width: 16.66%;
+      float: left;
+      text-align: right;
+      padding: 18px 0;
+  }
+  .social-media ul li {
+    display: inline-block;
+  }
+  .social-media ul li a {
+      display: inline-block;
+      font-size: 0;
+      padding: 8px;
+  }
+/* Banner */
+.banner-section {
+    text-align: center;
+    background: #506a85;
+    color: #a3b1bf;
+    font-size: 24px;
+    padding: 287px 0;
+}
+.banner-section h1 {
+    color: #fff;
+    text-transform: uppercase;
+}
+.banner-section .button {
+    padding-top: 32px;
+}
+
+
+/* beautiful */
+.beautiful {
+    text-align: center;
+    background: #fff;
+    color: #506a85;
+    font-size: 24px;
+    padding: 130px 0;
+}
+
+.inner-row1
+{
+    display: inline-block;
+    width: 33.33%;
+    margin-left: -15px;
+    padding: 52px;
+}
+.text-small
+{
+    font-size: 16px;
+    text-align: left;
+}
+.icon
+{
+    float: left;
+    width: 20%;
+}
+.col-inner
+{
+    float: left;
+    padding-left: 30px;
+    width: 80%;
+    text-align: left;
+}
+
+/* Latest Work Section */
+.work-section {
+    text-align: center;
+    background: #f1f5f7;
+    color: #73879c;
+    font-size: 22px;
+    padding-top: 127px;
+    /* padding: ; */
+}
+
+.images2 
+{
+    float: left;
+    width: 50%;
+    padding-right: 30px;
+    margin-bottom: 0px;
+    padding-top: 78px;
+}
+.images2 img{
+    width: 100%;
+    height: auto;
+}
+
+.text {
+    width: 100%;
+    padding-right: 30px;
+    background-color:#fff;
+    padding-top: 0px;
+    margin-top: 0px;
+
+}
+
+.img4
+{
+    float: left;
+    width: 25%;
+    padding-right: 30px;
+    padding-top: 80px;
+    padding-bottom: 200px;
+}
+.img4 img{
+    max-width: 100%;
+    height: auto;
+}
+
+/* Work with us */
+
+
+/* Footer */
+
+footer {
+    background-color: #2f3f51;
+    color: #a3b1bf;
+}
+footer h6{
+    color: #fff;
+    text-transform: uppercase;
+    padding-bottom: 27px;
+    padding-top: 71px;
+}
+.foot1 {
+    width: 25%;
+    float: left;
+}
+.spe{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.foot2 {
+    width: 25%;
+    float: left;
+}
+.foot2 img {
+    height: 85px;
+    width: 125px;
+    padding-right: 5px;
+}
+
+.foot3 {
+    width: 25%;
+    float: left;
+}
+.foot3 p {
+    margin-top: 0px;
+    padding-left: 0px;
+}
+.foot3 ul{
+list-style-type: none;
+float: left;
+padding-left: 0px;
+}
+
+.foot3 a{
+    color: #a3b1bf;
+}
+
+.foot4
+{
+    width: 25%;
+    float: left;
+    
+}
+.foot4 p {
+    margin-top: 0px;
+    padding-left: 0px;
+}
+
+input[type="text"] {
+    width: 100%;
+    height: 40px;
+    padding-right: 50px;
+    border: none;
+    background-color: #4e5c6b;
+    border-radius: 3px;
+}
+
+input[type="submit"]{
+    margin-left: -100px;
+    padding-top: 5px;
+    height: 30px;
+    width: 88px;
+    background: #1abb9c;
+    color: #fff;
+    border: 0;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 3px;
+}
+
+/* Bot strip */
+
+.bot-strip
+{
+    background-color: #273545;
+    height: auto;
+    width: 100%;
+}
+
+.strip-menu
+{
+    /* width: 41%; */
+    float: right;
+    /* margin-top: 10px; */
+}
+.strip-menu li {
+    display: inline-block;
+    padding:11px 24px 11px 0;
+    line-height: 22px;
+    text-align: left;
+    margin-bottom: 30px;
+}
+.strip-menu a {
+    font-weight: 400;
+    color: #707e8c;
+}
+
+
+
+/* Typography
+h1 - 78/88 , Lato, 900, #506a85
+h2 - 44/54, Lato, 700, #506a85
+h3 - 26/34, lato, 700, #506a85
+h4 - 20/26, lato, 700, #506a85
+h5 - 18/24, lato, 700, #506a85
+h6 - 16/22, Lato, 700, #506a85
+*/
+/* Font Families
+---------------
+Hairline/Thin - 100
+Extra light - 200
+Light - 300
+Regular - 400
+Medium - 500
+Semibold - 600
+Bold - 700
+Extra Bold - 800
+Black - 900
+*/
+
