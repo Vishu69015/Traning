@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+
+
+
+.wrapper {
+    max-width: 1200px;
+    align-content: center;
+    background-color: ghostwhite;
+    text-align: center;
+}
+
+body {
+    font-family: "Merriweather";
+}
+
+header {
+    text-transform: uppercase;
+    font-family: "Libre+Baskerville";
+    text-align: center;
+    color: ghostwhite;
+    font-weight: bolder;
+    background-color: black;
+    padding: 1%;
+    margin-bottom: 10px;
+    margin-right: -11px;
+    margin-left: -11px;
+    font-size: 2rem;
+}
+
+.lines {
+    border-style: solid;
+    border-color: black;
+    border-radius: 12px;
+    border-width: 2px;
+}
+
+.btn {
+    background-color: ghostwhite;
+    text-transform: capitalize;
+    color: black;
+    margin: 10px 10px 10px 10px;
+    border-color: black;
+    text-align: center;
+}
+
+.files {
+    text-align: center;
+}
+
+table {
+    border-width: 3rem;
+    border-spacing: 40px;
+    border-collapse:separate;
+}
